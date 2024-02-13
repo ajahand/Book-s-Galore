@@ -9,39 +9,73 @@ Our investigation will center on these components to evaluate the potential prof
 This dataset was acquired from Kaggle and contains
 
 -ID
--PURSCHASE-DATE
+
+-PURCHASE-DATE
+
 -DATE
+
 -TIME
+
 -QUARTER
+
 -QTR
+
 -YEAR
+
 -MONTH
+
 -DATE
+
 -SPECIAL DAY
+
 -ONLINE SALES OFFERS
+
 -DAY 
+
 -WEEKEND
+
 -MORNING
+
 -AFTERNOON
+
 -EVENING
+
 -NIGHT
+
 -GENDER
+
 -CUSTOMER ID
+
 -PRODUCT NAME
+
 -ITEM-STATUS
+
 -QUATITY
+
 -CURRENCY
+
 -ITEM PRICE
+
 -SHIPPING PRICE
+
 -SHIP STATE
+
 -SHIP CITY
+
 -SHIP POSTAL CODE
+
 -CATEGORY
+
 -TOTAL AMOUNT 
+
 -AUTHOR
+
 -PUBLICATION
+
 -PROFIT PERCENTAGE%
+
 -PROFIT (INR)
+
 -COST PRICE
 
 # VISUALIAZTIONS
